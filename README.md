@@ -6,7 +6,8 @@ React/Redux, Type Script.</b>
 
 ### Skills:
 
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript"  style="max-width:100%;"> 
+<span>
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript"  style="max-width:100%;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"  style="max-width:100%;"> 
@@ -20,6 +21,7 @@ React/Redux, Type Script.</b>
 <img src="https://img.shields.io/badge/Prettier-20232A?style=for-the-badge&logo=Prettier&logoColor=F7B93E" alt="Prettier"  style="max-width:100%;">
 <img src="https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="storybook"  style="max-width:100%;"> 
 <img src="https://img.shields.io/badge/react router-20232A?style=for-the-badge&logo=react router&logoColor=CA4245" alt="react router"  style="max-width:100%;"> 
+</span>
 
 <hr/>
 
